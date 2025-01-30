@@ -1,0 +1,10 @@
+bs4
+pydantic
+langchain
+langchain_core
+langchain_ollama
+langgraph
+imap-tools
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
